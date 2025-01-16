@@ -53,3 +53,9 @@ Os estilos básicos foram aplicados para melhorar a aparência do menu de navega
 ## Conclusão
 Este projeto demonstra como configurar rotas principais e sub-rotas em uma aplicação React utilizando o React Router. Ele exibe como estruturar e organizar componentes para navegação eficiente, além de estilizar o conteúdo para proporcionar uma experiência amigável ao usuário.
 
+![alt text](<Captura de tela 2025-01-15 204316-1.png>)
+![alt text](<Captura de tela 2025-01-16 202913.png>)
+![alt text](<Captura de tela 2025-01-16 202945.png>)
+![alt text](<Captura de tela 2025-01-16 203014.png>)
+![alt text](<Captura de tela 2025-01-16 203045.png>)
+![alt text](<Captura de tela 2025-01-16 203143.png>)
